@@ -10,8 +10,7 @@ Looking for **software engineering internships**. Portfolio, with a page for eve
 
 #### Systems in Java
 
-No frameworks or dependencies, so every line can be read and explained. Each has CI running its tests, and each README
-says what it does not do.
+No frameworks or dependencies, so every line can be read and explained. Each has CI running its tests.
 
 | Project | What it is | What backs it up |
 |---|---|---|
